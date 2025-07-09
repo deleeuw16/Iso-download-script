@@ -4,6 +4,6 @@ usefull for keeping iso's updated.
 
 dependencies:
 
-*a pc
-*curl
-*quickemu
+curl
+
+quickemu
