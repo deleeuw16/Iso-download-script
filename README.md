@@ -1,2 +1,3 @@
 # Iso-download-script
-a script to download iso,s. namely windows.
+a script to download iso's.
+usefull for keeping iso's updated. 
